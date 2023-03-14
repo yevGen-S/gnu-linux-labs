@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Line number 1 " $FIRTLINE
+echo "Line number 2 " $SECONDLINE
+
+

@@ -1,0 +1,2 @@
+Data from file. (child process)
+Hello, parent process.

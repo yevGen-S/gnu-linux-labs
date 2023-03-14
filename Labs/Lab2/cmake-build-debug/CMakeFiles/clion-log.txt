@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/evgenii/hardrive/home/yevs/Work_Study/Polytech/FIIT/GNU-Linux/Labs/Lab2 Select CMakeLists.txt

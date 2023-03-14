@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ "`ps | grep pipe_server`" == "" ]]
+then
+	./pipe_server &
+	sleep 1
+fi
